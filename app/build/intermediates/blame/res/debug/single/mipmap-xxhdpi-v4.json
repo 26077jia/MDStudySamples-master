@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\02AndroidTreasure\\04 ExampleCode\\MDStudySamples-master\\MDStudySamples-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_menu_home_normal.png",
+        "source": "F:\\02AndroidTreasure\\04 ExampleCode\\MDStudySamples-master\\MDStudySamples-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_menu_home_normal.png"
+    },
+    {
+        "merged": "F:\\02AndroidTreasure\\04 ExampleCode\\MDStudySamples-master\\MDStudySamples-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_launcher.png",
+        "source": "F:\\02AndroidTreasure\\04 ExampleCode\\MDStudySamples-master\\MDStudySamples-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\02AndroidTreasure\\04 ExampleCode\\MDStudySamples-master\\MDStudySamples-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_toolbar_add.png",
+        "source": "F:\\02AndroidTreasure\\04 ExampleCode\\MDStudySamples-master\\MDStudySamples-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_toolbar_add.png"
+    },
+    {
+        "merged": "F:\\02AndroidTreasure\\04 ExampleCode\\MDStudySamples-master\\MDStudySamples-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_menu_home_selected.png",
+        "source": "F:\\02AndroidTreasure\\04 ExampleCode\\MDStudySamples-master\\MDStudySamples-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_menu_home_selected.png"
+    }
+]
